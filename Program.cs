@@ -27,6 +27,8 @@ namespace Interfaces
                     $"{polygon.Length} \n" +
                     $"{polygon.GetArea()} \n" +
                     $"{polygon.GetPerimeter()} \n");
+
+                throw new PolygonNotFoundException();
             }
             catch (Exception ex)
             {
