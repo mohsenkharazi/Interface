@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXORfwUTS7ShxCZOdOmYChRhUr2nT8XnyT1lSpeO8cV3Q82O7OQZK4sB1IzbxaOTMnZppBEd0FhhDRwaM/0vSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohsen\\source\\exercise\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
